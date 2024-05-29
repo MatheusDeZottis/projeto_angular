@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-
 @Component({
   selector: 'app-componete01',
   standalone: true,
@@ -10,3 +9,4 @@ import { Component } from '@angular/core';
 export class Componete01Component {
 
 }
+
